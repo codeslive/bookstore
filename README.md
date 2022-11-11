@@ -1,24 +1,3 @@
-# ovo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<link rel="stylesheet"href="//unpkg.com/element-plus@2.2.16/dist/index.css">
+<script src="//unpkg.com/vue@3.2.26"></script>
+<script src="//unpkg.com/element-plus"></script>
